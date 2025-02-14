@@ -1,0 +1,6 @@
+[book]
+authors = ["Rutubet"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My SOP"
